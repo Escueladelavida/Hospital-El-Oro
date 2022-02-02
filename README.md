@@ -40,7 +40,7 @@ Hospital Appointment System es una versión para tableta de la aplicación web, 
 Este proyecto se creó utilizando React y Redux, Nodejs y Express Con lambda functions e integracion a apigateway de amazon web service de arquitectura, es una aplicación web y para ejecutarse en su entorno local debe seguir estas pautas.
 <br/>
 <br/>
-**ESTE ES EL FRONTEND DE LA APLICACIÓN Y EL BACKEND SE ENCUENTRA EN ESTE ENLACE** [(backend)](https://github.com/jpnorena1/CASO_COMPLEXIVO_H.git)
+**ESTE ES EL FRONTEND DE LA APLICACIÓN Y EL BACKEND SE ENCUENTRA EN ESTE ENLACE** [(backend)](https://github.com/efbalcazar/Hospital-El-Oro.git)
 <br/>
 
 ### Pre-requisitos
@@ -66,11 +66,11 @@ Este proyecto se creó utilizando React y Redux, Nodejs y Express Con lambda fun
 ```
 Usando SSH 
 
-# git clone  https://github.com/jpnorena1/CASO_COMPLEXIVO_H.git
+# git clone  https://github.com/efbalcazar/Hospital-El-Oro.git
 
 Usando HTTPS
 
-# git clone https://github.com/jpnorena1/CASO_COMPLEXIVO_H.git
+# git clone https://github.com/efbalcazar/Hospital-El-Oro.git
 
 ```
 
